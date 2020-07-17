@@ -47,6 +47,8 @@ public class Program {
 		
 		System.out.println("Bom dia ");
 		System.out.println("Bom tarde ");
+
+		
 		sc.close();
 	}
 
