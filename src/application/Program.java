@@ -44,6 +44,8 @@ public class Program {
 		} else {
 			System.out.println("TLarger area : Y");
 		}
+		
+		System.out.println("Bom dia ");
 		sc.close();
 	}
 
